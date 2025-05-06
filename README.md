@@ -1,4 +1,4 @@
-
+#simple password strength checker#
 import re
 user = input("enter username: ")
 password = input("enter password: ")
